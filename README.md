@@ -7,6 +7,6 @@ here i used just default bottom navigation view and floating action to create bo
 
 
 <p align="center">
- <a href="http://tinypic.com?ref=2mqpwyh" target="_blank"><img src="http://i63.tinypic.com/2mqpwyh.png" border="0" alt="Bottom App Bar with Bottom navigationView"></a>
+ <a href="http://tinypic.com?ref=2mqpwyh" target="_blank"><img height="350" src="http://i63.tinypic.com/2mqpwyh.png" border="0" alt="Bottom App Bar with Bottom navigationView"></a>
   <img src="your_relative_path_here_number_2_large_name" width="350" alt="Bottom App Bar with Bottom navigationView">
 </p>
